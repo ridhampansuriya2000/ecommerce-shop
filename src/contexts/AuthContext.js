@@ -13,10 +13,10 @@ export const AuthProvider = ({ children }) => {
     }, []);
 
     const login = (email, password) => {
-        if (email === user.email && password === user.password) {
-            const userData = { email, name: "John Doe" };
-            setUser(userData);
-            localStorage.setItem("user", JSON.stringify(userData));
+        if (email === user?.email && password === user?.password) {
+            // const userData = { email, name: "John Doe" };
+            // setUser(userData);
+            // localStorage.setItem("user", JSON.stringify(userData));
             return true;
         }
         return false;

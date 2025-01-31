@@ -185,6 +185,13 @@ const Signup = () => {
                                 Sign Up
                             </button>
                         </div>
+
+                        <hr className='mt-3'/>
+                        <div className="flex-1 text-right">
+                            <a href="/login" className="text-sm text-blue-600 hover:underline">
+                                Log In
+                            </a>
+                        </div>
                     </div>
                 </form>
             </div>
