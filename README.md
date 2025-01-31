@@ -101,4 +101,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📞 Contact
 
-For any questions or support, please reach out to [your email or GitHub profile link].
+For any questions or support, please reach out to ridhampansuriya10@gmail.com or https://github.com/ridhampansuriya2000.
